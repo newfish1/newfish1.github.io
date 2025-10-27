@@ -58,7 +58,7 @@
 
   <url>
     <loc>https://blog.ggbond-2025.top/</loc>
-    <lastmod>2025-10-26</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,7 +66,7 @@
   
   <url>
     <loc>https://blog.ggbond-2025.top/tags/docker/</loc>
-    <lastmod>2025-10-26</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -74,15 +74,15 @@
 
   
   <url>
-    <loc>https://blog.ggbond-2025.top/categories/blog/</loc>
-    <lastmod>2025-10-26</lastmod>
+    <loc>https://blog.ggbond-2025.top/categories/%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ggbond-2025.top/categories/%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2025-10-26</lastmod>
+    <loc>https://blog.ggbond-2025.top/categories/blog/</loc>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
